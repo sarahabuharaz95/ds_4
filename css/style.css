@@ -1,0 +1,39 @@
+body{
+    padding: 10px;
+    background-color: wheat
+
+}
+
+h1{
+    font-family: Verdana, Monospace;
+    font-size: 100px;
+}
+
+h2{
+    color: #f2deba;
+}
+
+p{
+    font-size: 14px;
+    line-height: 2
+}
+
+img {
+    width: 45%;
+    border-radius: 5%;
+    border: solid;
+    border-color: pink;
+    border-width: 3px;
+}
+
+li{
+
+}
+
+footer{
+
+}
+
+.skip:focus{
+    left:0px;
+}
